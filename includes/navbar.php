@@ -16,7 +16,7 @@
           <a class="nav-link" href="register.php">Register</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="login.php">Register</a>
+          <a class="nav-link" href="login.php">Login</a>
         </li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
