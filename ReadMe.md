@@ -77,9 +77,9 @@ Run the SQL script above to create the tables.
 
 # config your git hub
 ### this tutorial will help you.
-git init
-git add .
-git commit -m
+git init,
+git add .,
+git commit -m,
 git push -u 
 
 1. https://youtu.be/i_23KUAEtUM?si=80luL_M-92swvTpU
