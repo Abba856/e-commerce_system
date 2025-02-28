@@ -13,6 +13,7 @@ require('./database/db.php');
     <link rel="stylesheet" href="./register.css">
 </head>
 <body>
+
     <div class="container">
         <div>
             <h1 class="mt-3">Register</h1>
